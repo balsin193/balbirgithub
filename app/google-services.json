@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260067324811",
+    "project_id": "statusdownloader-all-in-one",
+    "storage_bucket": "statusdownloader-all-in-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260067324811:android:930dd1b6518c6264eb358e",
+        "android_client_info": {
+          "package_name": "com.statusdownloaders.allinones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260067324811-nrhho35dd3cenp04gr4vle2o3dro6ht4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1CgEYK8U5uX0bYL1If2Il4f3JF-q2t68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260067324811-nrhho35dd3cenp04gr4vle2o3dro6ht4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
